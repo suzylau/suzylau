@@ -14,7 +14,7 @@
 
   
 <div align="center">
-<iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="457" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE">via GIPHY</a></p>
+<img src="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE" align="center" width="457" height="480" frameBorder="0" class="giphy-embed" />
 </div>  
 
 <br/>  
