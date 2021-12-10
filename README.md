@@ -12,11 +12,7 @@
 #####  - 🔭 I’m currently still in a DevOps & Cloud Support bootcamp.
 #####  - 🌱 And will begin my apprenticeship soon, in January 2022.  
 
-  
-<div align="center">
-<img src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE.gif" align="center" style="width: 50%" />
-<br/>  
-  
+
 ##
 <div align="center">
 <a href="https://github.com/https://github.com/suzylau" target="_blank">
