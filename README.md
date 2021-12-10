@@ -4,7 +4,8 @@
 
 <br/>  
 
-### <div align="center">I'm Suzy, a Mathematics tutor 👨‍💻 and a budding DevOps engineer. </div>  
+### <div align="center">I'm Suzy, a Mathematics tutor 
+  and a budding DevOps engineer. </div>  
 
 <br/>  
 
