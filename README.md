@@ -4,15 +4,14 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
 
+<br/>  
+
+### <div align="center">I'm Suzy, a Mathematics tutor 👨‍💻 and a budding DevOps engineer. </div>  
 
 <br/>  
 
-
-### <div align="center">I'm Suzy, a Mathematics tutor 👨‍💻 and a budding DevOps engineer. </div>  
-  
-  
-  
-  
+### <  
+ 
 
 - 🔭 I’m currently still in a DevOps & Cloud Support bootcamp.
   
