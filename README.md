@@ -10,6 +10,9 @@
 
 ### <div align="center">I'm Suzy, a Mathematics tutor 👨‍💻 and a budding DevOps engineer. </div>  
   
+  
+  
+  
 
 - 🔭 I’m currently still in a DevOps & Cloud Support bootcamp.
   
