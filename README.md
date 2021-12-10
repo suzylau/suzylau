@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
@@ -10,8 +8,8 @@
 
 <br/>  
 
-##  - 🔭 I’m currently still in a DevOps & Cloud Support bootcamp.
-##  - 🌱 And will begin my apprenticeship soon, in January 2022.  
+#####  - 🔭 I’m currently still in a DevOps & Cloud Support bootcamp.
+#####  - 🌱 And will begin my apprenticeship soon, in January 2022.  
 
 
 
