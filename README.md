@@ -14,7 +14,7 @@
 
   
 <div align="center">
-<img src="ttps://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE" align="center" style="width: 50%" />
+<img src="https://i.imgur.com/1CssljC.gifv" align="center" style="width: 50%" />
 <br/>  
   
 
