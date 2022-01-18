@@ -9,8 +9,8 @@
 
 <br/>  
 
-#####  - 🔭 I’m currently still in a DevOps & Cloud Support bootcamp.
-#####  - 🌱 And will begin my apprenticeship soon, in January 2022.  
+#####  - 🔭 I’ve finished a DevOps & Cloud Support bootcamp.
+#####  - 🌱 And just started my apprenticeship in January 2022.  
 
 
 ##
